@@ -41,6 +41,8 @@
 
 <a href="https://www.codewars.com/users/tsiorimg" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/tsiorimg/badges/large" alt="codewar"/> </a>
 
+### Cerification
+<a href="https://www.codingame.com/certification/VSHr1aOKb0kPdNeXsMrNmw" target="_blank" rel="noreferrer"> <img src="./static/codinggame_gold_ia.png" alt="Certification CodinGame - AI - GOLD"/> </a>
 
 ## ❤️ Support  
 
