@@ -42,7 +42,7 @@
 <a href="https://www.codewars.com/users/tsiorimg" target="_blank" rel="noreferrer"> <img src="https://www.codewars.com/users/tsiorimg/badges/large" alt="codewar"/> </a>
 
 ### Cerification
-<a href="https://www.codingame.com/certification/VSHr1aOKb0kPdNeXsMrNmw" target="_blank" rel="noreferrer"> <img src="./static/codinggame_gold_ia.png" alt="Certification CodinGame - AI - GOLD"/> </a>
+<a href="https://www.codingame.com/certification/VSHr1aOKb0kPdNeXsMrNmw" target="_blank" rel="noreferrer"> <img src="./static/codinggame_gold_ia.png" alt="Certification CodinGame - AI - GOLD"/> </a> <a href="https://www.codingame.com/certification/N9bnAB7YO5FC34BkE0J8Yw" target="_blank" rel="noreferrer"> <img src="./static/codingame_coding_speed_silver.png" alt="Certification CodinGame - CODING_SPEED - SILVER"/> </a>
 
 ## ❤️ Support  
 
